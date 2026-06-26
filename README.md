@@ -7,13 +7,13 @@ Yapay Zeka Teknoloji Akademisi Bootcamp proje reposu.
 
 ## Takım Üyeleri ve Rolleri
 
-| İsim | Rol           |
-| ---- | ------------- |
-|      | Scrum Master  |
-|      | Product Owner |
-|      | Developer     |
-|      | Developer     |
-|      | Developer     |
+|       İsim                  | Rol           |
+|       ----                  | ------------- |
+|   Dilara Şenay              | Scrum Master  |
+|   Emre Subaşı               | Product Owner |
+|   Muhammed Mustafa Göktaş   | Developer     |
+|   Ezgi Berra Demirel        | Developer     |
+|   Zeynep Buse Kutlu         | Developer     |
 
 ## Ürün İsmi
 
