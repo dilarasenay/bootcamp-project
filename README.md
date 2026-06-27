@@ -15,6 +15,8 @@ Team - DEEMZ
 |   Ezgi Berra Demirel        | Developer     |
 |   Zeynep Buse Kutlu         | Developer     |
 
+# Ürünle İlgili Bilgiler;
+
 ## Ürün İsmi
 
 ## Ürün Açıklaması
@@ -42,15 +44,12 @@ Team - DEEMZ
 
 ## Sprint Notları
 
-## Sprint İçinde Tamamlanması Tahmin Edilen Puan
-
-## Puan Tamamlama Mantığı
-
 ## Backlog Düzeni ve Story Seçimleri
 
 ## Daily Scrum
 
-## Sprint Board Update
+## SprintBoard ScreenShotları
+
 
 ## Ürün Durumu: Ekran Görüntüleri
 
