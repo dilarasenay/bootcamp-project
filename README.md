@@ -11,7 +11,7 @@ Team - 314
 |       ----                  | ------------- |
 |                 | Scrum Master  |
 |   Emre Subaşı               | Product Owner |
-|   Zeynep Buse Kutlu         | Developer     |
+|   Zeynep Buse Kutluu        | Developer     |
 |           | Developer     |
 |            | Developer     |
 
