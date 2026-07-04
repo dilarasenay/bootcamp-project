@@ -13,7 +13,7 @@ Team - 314
 |   Emre Subaşı               | Product Owner |
 |   Zeynep Buse Kutlu         | Developer     |
 |   Muhammed Mustafa GÖKTAŞ   | Developer     |
-|            | Developer     |
+|   Ezgi Berra Demirel        | Developer     |
 
 # Ürünle İlgili Bilgiler;
 
