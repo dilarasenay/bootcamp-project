@@ -9,7 +9,7 @@ Team - 314
 
 |       İsim                  | Rol           |
 |       ----                  | ------------- |
-|                 | Scrum Master  |
+|   Dilara Şenay              | Scrum Master  |
 |   Emre Subaşı               | Product Owner |
 |   Zeynep Buse Kutlu         | Developer     |
 |   Muhammed Mustafa GÖKTAŞ   | Developer     |
