@@ -100,7 +100,8 @@ Daily Scrum sürecinde takip edilen ana başlıklar:
 
 Daily Scrum ekran görüntüleri / toplantı notları:
 
-![Daily Scrum](./Project%20Management/Sprint%201/Daily%20Scrum/daily-scrum-1.png)
+![Daily Scrum](./Sprint1/tp2_sansurlu.png)
+![Daily Scrum](./Sprint1/tp1_sansurlu.png)
 
 ## SprintBoard ScreenShotları
 
